@@ -1,0 +1,4 @@
+name: CoinAPI
+version: '${project.version}'
+main: de.artur.coinapi.Main
+api-version: '1.20'

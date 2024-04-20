@@ -1,0 +1,4 @@
+name: CoinAPI
+version: '1.0-SNAPSHOT'
+main: de.artur.coinapi.Main
+api-version: '1.20'
